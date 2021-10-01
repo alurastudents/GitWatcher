@@ -4,10 +4,12 @@ Git watcher is a [cli](https://en.wikipedia.org/wiki/Command-line_interface) pro
 
 #
 
-Computer Version:
+## Download
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/LuanderFarias/GitWatcher/releases)
-[![Linux](https://img.shields.io/badge/Linux-FF6600?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/LuanderFarias/GitWatcher/releases)
+```
+npm install gitwatcher
+```
+not disponible yet
 
 ## Made With ❤️ And:
 [![ZORIN](https://img.shields.io/badge/Zorin_OS_15.3_lite-0CC1F3?style=for-the-badge&logo=Zorin&logoColor=white)](https://zorin.com/)
