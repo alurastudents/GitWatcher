@@ -5,9 +5,6 @@ Git watcher is a [cli](https://en.wikipedia.org/wiki/Command-line_interface) pro
 ##  🛠️ Compile/Build
 
 ### Dependencies Required
-- `Electron`
-- `Node.js`
-- `Electron Builder`
 - `Octokit.js`
 
 ## 🛠️ Run/Test
@@ -19,7 +16,6 @@ npm test
 
 ## 🛠️ Build
 - open terminal and cd on the project paste
-- Be sure you installed [electron-builder](https://www.electron.build/)
 - use:
 ```sh
 npm run build
