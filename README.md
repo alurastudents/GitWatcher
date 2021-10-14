@@ -14,7 +14,7 @@ not disponible yet
 ## Made With ❤️ And:
 [![ZORIN](https://img.shields.io/badge/Zorin_OS_15.3_lite-0CC1F3?style=for-the-badge&logo=Zorin&logoColor=white)](https://zorin.com/)
 [![IDE](https://img.shields.io/badge/Visual_studio_code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)]()
 [![OCTOKIT](https://img.shields.io/badge/Octokit.js-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/octokit/octokit.js)
 
 ## 🤝 contribution
