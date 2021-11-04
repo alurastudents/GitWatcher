@@ -17,14 +17,6 @@ not disponible yet
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)]()
 [![OCTOKIT](https://img.shields.io/badge/Octokit.js-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/octokit/octokit.js)
 
-## 🤝 contribution
-
-Project Open For Help And Any Ideas Are Welcome!
-
-Remember To Follow License Requirements...
-
-[for-the-devs.md](for-the-devs.md)
-
 ## 🔖 License
 [![LICENSE](https://img.shields.io/badge/Custom_GPL_3.0-E58080?style=for-the-badge&logo=bookstack&logoColor=white)](/LICENSE)
 
